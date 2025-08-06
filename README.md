@@ -11,15 +11,15 @@ Cada carpeta contiene los materiales correspondientes a una clase, incluyendo no
 | `Tutorial_0` | Introducción a Python | [Video ](https://campusvirtual.udesa.edu.ar/mod/url/view.php?id=776695) |
 | `Tutorial_1` | Introducción a Python II: funciones, importar y exportar datos  | |
 | `Tutorial_2` | Pandas, Numpy y Matplotlib | |
-| `Tutorial_3` | Heatmaps, APIs, Web Scraping | |
+| `Tutorial_3` | Heatmaps, APIs, Web Scraping y Selenium | |
 | `Tutorial_4` | Intro a método supervisado: Histogramas & Kernels | |
-| `Tutorial_5` | Selenium, Métodos no supervisados I: PCA y Clusters | |
+| `Tutorial_5` | Métodos no supervisados I: PCA | |
 | `Tutorial_6` | Métodos no supervisados II: Clusters | | 
 | `Tutorial_7` | Repaso Numpy y Regresión Lineal | |  
 | `Tutorial_8` | Clasificación: Logit y KNN | |  
 | `Tutorial_9` | Clasificacion: LDA, QDA y Curvas ROC | | 
 | `Tutorial_10` | K-fold Cross Validation | |  
 | `Tutorial_11` | Regularización | | 
-| `Tutorial_12` | Boosting; PCR, PLS | | Árboles CART.
-| `Tutorial_13` | Métodos de Ensemble Bagging, Random Forest | |
-| `Tutorial_14` | Consultas & Modelos no lineales: step function y splines | |
+| `Tutorial_12` | Árboles CART. | | 
+| `Tutorial_13` | Métodos de Ensemble | |
+| `Tutorial_14` | Consultas, Modelos no lineales y Boosting; PCR, PLS | |  
